@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MMiirrkk
 - 👀 I’m interested in python, 
 Machine Learning and AI
-- 🌱 I’m currently learning Neural Network
+- 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
