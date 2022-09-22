@@ -2,8 +2,8 @@
 - 👀 I’m interested in python, 
 Machine Learning and AI
 - 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ML and AI.
+- 📫 How to reach me: cot@wp.pl
 
 <!---
 MMiirrkk/MMiirrkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
