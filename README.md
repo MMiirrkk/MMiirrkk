@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MMiirrkk
-- 👀 I’m interested in python, 
+- 👀 I’m interested in Python, 
 Machine Learning and AI
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on ML and AI.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: cot@wp.pl
 
 <!---
